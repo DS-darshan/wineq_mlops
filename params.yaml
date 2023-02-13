@@ -16,7 +16,7 @@ split_data:
 
 estimators:
   ElasticNet:
-  parmas:
+  params:
     alpha: 0.88
     l1_ratio: 0.89
 
